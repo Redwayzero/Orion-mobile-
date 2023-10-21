@@ -18,8 +18,7 @@ Stroke = Color3.fromRGB(70, 70, 70),
 Divider = Color3.fromRGB(70, 70, 70),
 Text = Color3.fromRGB(220, 220, 220),
 TextDark = Color3.fromRGB(140, 140, 140)
-
-	},
+},
 	SelectedTheme = "Default",
 	Folder = nil,
 	SaveCfg = false
